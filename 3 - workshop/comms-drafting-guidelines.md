@@ -11,10 +11,8 @@ For anyone drafting external-facing language that doesn't have a Clearway entry.
 ## Drafting principles
 
 - **Check your draft against `language-patterns-to-watch.md`** before submitting — it covers the most common avoidable risk patterns.
-- **Be specific, not aspirational.** "We protect your data" is vague and harder to clear than "We encrypt your data in transit and at rest" — specific claims are easier to verify as true, and easier for Legal to approve quickly.
 - **Avoid superlatives and comparatives** ("best," "most secure," "only") unless you have a verified, current basis for the claim.
 - **Match tense to reality.** Don't describe something as live if it's in beta; don't describe a partnership as active if the agreement isn't executed.
-- **Flag anything time-sensitive at the top of your request**, not buried in a thread.
 
 ## What to include when you submit for review
 
