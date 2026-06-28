@@ -17,14 +17,14 @@ A short test to make the call with confidence, instead of defaulting to "submit 
 - Appear in a high-visibility channel (homepage, press, a major campaign, executive communications)?
 
 **One more check:**
-- Did a first-pass review tool, template, or another reviewer flag anything you haven't been able to resolve yourself?
+- Did a Claude Project review tool, template, or another reviewer flag anything you haven't been able to resolve yourself?
 
 ## If none of the above applies
 
 You can proceed without a full legal review. Before you publish:
 
 1. Check your draft one more time against the pre-approved language in this runbook, so it matches what's already been cleared.
-2. Keep a record of whatever self-check or first-pass tool output you used — attach it to the asset or log it in your tracking system, so there's a trail if a question comes up later.
+2. Keep a record of whatever self-check or first-pass tool output you used.
 
 ## The tie-breaker
 
