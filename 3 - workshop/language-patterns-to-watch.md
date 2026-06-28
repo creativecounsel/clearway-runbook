@@ -10,7 +10,7 @@ Common phrasing patterns that create avoidable legal risk, with a quick fix for 
 
 
 
-# Reminder to  drafters 
+## Reminder to  drafters 
 This list reflects recurring patterns, not a complete list. If something doesn't fit a pattern above but still feels risky, that instinct is usually right — flag it.
 
 
