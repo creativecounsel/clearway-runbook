@@ -1,6 +1,6 @@
 # External Communications Runbook (Template)
 
-A generic, three-part runbook for legal teams at any company who want to help marketing, GTM, comms, policy, or product, and raise the bar on which reviews get the closest eye.
+A generic, three-part runbook for legal teams at any company who want to give marketing, GTM, comms, policy, and product fast, reliable answers and quick-grab language, while reserving deeper review for content that needs it.
 
 This is a template, not a finished system. It's built to be copied, renamed, and filled in with your own company's actual pre-cleared language, SLAs, and risk areas. Out of the box, it's a skeleton: the structure and the thinking behind it are real, the specific content is illustrative.
 
@@ -42,10 +42,6 @@ Most legal bottlenecks aren't hard questions. They're easy, repeated ones, asked
     team-routing.md                → who handles what within the legal team
     ai-tool-instructions.md
 ```
-
-## Design principle
-
-The goal is the same rigor applied once, upstream, rather than re-litigated every time a similar request comes in. Consistency comes from doing the work once and reusing it, not from skipping the work.
 
 ## Adapting this for your own company
 
