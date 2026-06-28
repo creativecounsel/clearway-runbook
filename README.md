@@ -1,6 +1,6 @@
 # External Communications Runbook (Template)
 
-A generic, three-part runbook for legal teams at any company who want to help marketing, GTM, comms, policy, or product, and raise the bar on which reviews get the closest review.
+A generic, three-part runbook for legal teams at any company who want to help marketing, GTM, comms, policy, or product, and raise the bar on which reviews get the closest eye.
 
 This is a template, not a finished system. It's built to be copied, renamed, and filled in with your own company's actual pre-cleared language, SLAs, and risk areas. Out of the box, it's a skeleton: the structure and the thinking behind it are real, the specific content is illustrative.
 
