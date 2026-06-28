@@ -25,8 +25,3 @@ Pre-approved language for describing what data the product collects, how it's us
 ---
 
 *Example content for a public template — replace with your company's actual cleared language and review regularly.*
-
-
----
-
-*This page is a structural template, intended for plug-and-play use by any company. It is not legal advice and does not reflect the actual legal work product, internal guidance, or analysis of any real company, client, or matter.*
