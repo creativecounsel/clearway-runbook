@@ -1,16 +1,16 @@
 # External Communications Runbook (Template)
 
-A generic, three-part runbook for legal teams at any company who want to cut down on repeated, low-value review requests from marketing, GTM, comms, policy, or product, without lowering the bar on what actually gets checked.
+A generic, three-part runbook for legal teams at any company who want to help marketing, GTM, comms, policy, or product, and raise the bar on which reviews get the closest review.
 
-This is a template, not a finished system. It's built to be copied, renamed, and filled in with your own company's actual pre-cleared language, SLAs, and risk areas. Out of the box it's a skeleton: the structure and the thinking behind it are real, the specific content is illustrative.
+This is a template, not a finished system. It's built to be copied, renamed, and filled in with your own company's actual pre-cleared language, SLAs, and risk areas. Out of the box, it's a skeleton: the structure and the thinking behind it are real, the specific content is illustrative.
 
 ## The idea
 
-Most legal bottlenecks aren't hard questions. They're easy, repeated ones, asked over and over because there's nowhere for the answer to live. This runbook gives the common case a fast path and the uncommon case a clear one, instead of treating every request the same way.
+Most legal bottlenecks aren't hard questions. They're easy, repeated ones, asked a lot because there's nowhere for the answer to live. This runbook is designed to give the common case a fast path and the uncommon case a clear one, instead of treating every request the same way.
 
 ## How it's organized
 
-**Ground Floor** is for the moment someone just needs an answer. It contains pre-approved language organized by category (`/clearway`) and turnaround times by request type (`/slas`), plus a router (`working-on-router.md`) that points to the right place based on what someone's actually working on. Most requests should resolve here without ever reaching a person.
+**Ground Floor** is for the moment someone just needs an answer. It should contain pre-approved language organized by category (`/clearway`) and turnaround times by request type (`/slas`), plus a router (`working-on-router.md`) that points to the right place based on what someone's actually working on. Most requests should resolve here without ever reaching a person.
 
 **Workshop** is for anything that doesn't have a ready answer. It splits into drafting guidance (for whoever's writing the copy) and reviewing guidance (for whoever's checking it), plus three supporting tools: a comment-label taxonomy so reviewers can signal exactly what's required versus optional, a decision test for whether something needs legal review at all, and a table of common risky phrasing patterns with fixes.
 
