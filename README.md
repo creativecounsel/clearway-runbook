@@ -28,7 +28,7 @@ Most legal bottlenecks aren't hard questions. They're easy, repeated ones, asked
 /workshop
     comms-drafting-guidelines.md
     legal-reviewing-guidelines.md
-    comment-labels.md              → REQUIRED / RECOMMENDED / OPTIONAL review taxonomy
+    comment-labels.md              → MUST / MAYBE / STYLE review taxonomy
     does-legal-need-to-review.md   → decision test for when review is actually needed
     language-patterns-to-watch.md  → common risky phrasing patterns and fixes
 /archive
@@ -37,10 +37,10 @@ Most legal bottlenecks aren't hard questions. They're easy, repeated ones, asked
     eu-law-basics.md
     us-law-basics.md
     product-fundamentals.md
-/maintenance
+/annex
     runbook-maintenance.md
     team-routing.md                → who handles what within the legal team
-ai-tool-instructions.md
+    ai-tool-instructions.md
 ```
 
 ## Design principle
