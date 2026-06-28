@@ -6,9 +6,9 @@ A simple labeling system so the person receiving a review comment knows exactly 
 
 | Label | What it means | How the drafter responds |
 |---|---|---|
-| **REQUIRED** | The edit is a legal or regulatory necessity. The asset cannot ship without it. The reviewer should name the reason and, where possible, suggest compliant language. | Make the change, or escalate if you disagree. Cannot be declined unilaterally. |
-| **RECOMMENDED** | The edit is a substantive improvement that reduces risk or improves clarity, but isn't a hard legal stop. Declining it involves some risk. | Accept, or decline with a brief logged reason showing you understood the risk you're accepting. |
-| **OPTIONAL** | A wording or voice suggestion — take it or leave it. | Fully optional. Can decline without explanation. |
+| **MUST** | The edit is a legal or regulatory necessity. The asset cannot ship without it. | Make the change, or escalate if you disagree. Cannot be declined unilaterally. |
+| **MAYBE** | The edit is a substantive improvement that reduces risk or improves clarity, but isn't a hard legal stop. Declining it involves some risk. | Accept, or decline with a risk acknowledgment. |
+| **STYLE** | A wording or voice suggestion. | Fully optional. |
 
 ## Why this matters
 
@@ -16,15 +16,15 @@ Without labels, every comment looks equally urgent, which either causes drafters
 
 ## Comment norms for reviewers
 
-- Every REQUIRED comment includes an explanation. No unexplained stops — "no" without a reason just generates a follow-up question and adds a round trip.
-- Suggest alternative language whenever possible, matched roughly to the length of the original — this saves a round trip versus just flagging a problem.
-- Map the label to actual risk, not to personal preference: high risk → REQUIRED; medium risk → REQUIRED or RECOMMENDED depending on whether it's a true legal line; low/no risk → OPTIONAL.
+- Every MUST comment includes an explanation. No unexplained stops — "no" without a reason just generates a follow-up question.
+- Suggest alternative language whenever possible, matched roughly to the style of the original.
+- Map the label to actual risk, not to personal preference: high risk → MUST; medium risk → MUST or MAYBE depending on whether it's a true legal line; low/no risk → STYLE.
 
-## Resolving disagreement
+## Resolving Discord
 
-- **REQUIRED**: not resolved by repeated comment threads. If there's disagreement, escalate to a call, and loop in another relevant stakeholder if needed.
-- **RECOMMENDED**: the drafter's call. If declined, log a brief reason and an acknowledgment of the risk being accepted.
-- **OPTIONAL**: never escalates. The drafter's call is final.
+- **MUST**: If there's disagreement, escalate to a call, and loop in another relevant stakeholder if needed.
+- **MAYBE**: the drafter's call. If declined, log a brief reason and an acknowledgment of the risk being accepted.
+- **STYLE**: never escalates.
 
 
 ---
