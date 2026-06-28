@@ -21,9 +21,5 @@ Pre-approved language for describing a partner, integration, or co-marketed rela
 
 ---
 
-*Example content — replace with your own approved partner language as agreements change.*
-
-
----
 
 *This page is a structural template, intended for plug-and-play use by any company. It is not legal advice and does not reflect the actual legal work product, internal guidance, or analysis of any real company, client, or matter.*
